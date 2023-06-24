@@ -21,4 +21,5 @@ I am currently working on an Android Application focused on recruiting teachers.
 ---
 [![](https://visitcount.itsvg.in/api?id=Kahitoz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kahitoz)](https://github.com/ryo-ma/github-profile-trophy)
