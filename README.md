@@ -15,6 +15,8 @@ I am currently learning Neural Networks, Machine Learning and Deep Learning in p
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kahitoz)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Trophies Alternate Versions
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐦 Latest Tweet
