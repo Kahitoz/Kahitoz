@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently learning Neural Networks, Machine Learning and Deep Learning in python<br>I have an experience of making android applications from the past two years.<br>I know web development and currently building my own personal portifolio and NU-Gatepass management app using react as the frontend.<br>I like to watch anime and learning how to make 3D models using blender in my free time.
+Currently learnning Django,
+Neural Networks, Machine Learning and Deep Learning in python<br>I have an experience of making android applications from the past two years.<br>I know web development and currently building my own personal portifolio and NU-Gatepass management app using react as the frontend.<br>I like to watch anime and learning how to make 3D models using blender in my free time.
 
 
 ## 🌐 Socials:
