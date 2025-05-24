@@ -121,11 +121,9 @@ Secure AI-driven bot integrated within Microsoft Teams to handle employee querie
 
 ## 🤝 Connect with Me
 
-Let’s connect and discuss how I can contribute to your organization!
-
-📫 **Email**: [Your Email Here]  
-💼 **LinkedIn**: [Your LinkedIn Profile]  
-🌐 **Portfolio**: [Your Portfolio Link]  
+📫 **Email**: [kshitiz.sinha.025@gmail.com](mailto:kshitiz.sinha.025@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/kahitoz](https://www.linkedin.com/in/kahitoz/)  
+🌐 **Portfolio**: [kahitoz.com](https://kahitoz.com)
 
 
 ## 🌐 Socials:
