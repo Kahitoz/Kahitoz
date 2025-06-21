@@ -135,6 +135,7 @@ Secure AI-driven bot integrated within Microsoft Teams to handle employee querie
 ![](https://github-readme-stats.vercel.app/api?username=Kahitoz&theme=dark&hide_border=false&include_all_commits=all&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kahitoz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahitoz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kahitoz)](https://git.io/streak-stats)
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=kahitoz)](https://github.com/ryo-ma/github-profile-trophy)
