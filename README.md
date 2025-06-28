@@ -1,4 +1,4 @@
-# Kshitiz Sinha - Portfolio
+# Kshitiz Sinha 
 
 ## 👋 About Me
 
